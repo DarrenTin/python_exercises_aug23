@@ -1,6 +1,7 @@
-def count_set_bits(n):
+def convert_to_bits(n):
+    # convert to binary
     return bin(n)
 
 # Test your function
 num = 9876
-print(count_set_bits(num))
+print(convert_to_bits(num))
