@@ -1,0 +1,2 @@
+# Welcome to my first written md file
+From now on, I want to *start* my code practice, *reviewing* what I learnt from the school, and know where I could be as a human with limitless potential. I want to contribute my idea, skill, and knowledge to the society and humanity, as my purpose is to make the world a better place, where human and the nature can conserved their high quality. **Passion is greater than money**.
